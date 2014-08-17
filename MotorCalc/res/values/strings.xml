@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Motor Calculator</string>
+    <string name="voltage">Voltage</string>
+    <string name="power">Power</string>
+    <string name="powerfactor">Powerfactor</string>
+    <string name="effeciency">Effeciency</string>
+    <string name="startmode">StartMode</string>
+    <string name="isbidirectional">IsBidirectional</string>
+    <string name="calculate">Calculate</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="aad_note">Add Note</string>
+    <string name="button">Button</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure_">Are You Sure?</string>
+    <string name="confirm_delete">Confirm Delete</string>
+   
+    <string name="title_activity_shematic">ShematicActivity</string>
+
+    <string name="powerfactor_msg">Powerfactor Must be 0.1-1</string>
+   <string name="power_msg">Power Is Required</string>
+   <string name="voltage_msg">Voltage Is Required</string>
+    <string name="effecieny_out_of_range">Effecincy Must be 0.1-1</string>
+    <string name="showSchematic">Schematic</string>
+</resources>
